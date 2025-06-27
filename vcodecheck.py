@@ -1,1 +1,0 @@
-print("circle has two halfs of radius")
